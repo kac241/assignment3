@@ -1,1 +1,22 @@
-/*styles for assignment 3*/
+body 
+{
+	background: #c4f1e7;
+	font-family: "Times";
+	text-align: left;
+	padding: 5px;
+}
+
+label 
+{
+	float: left;
+	clear: left;
+	width: 200px;
+	text-align: left;
+	display: inline-block;
+}
+
+input 
+{
+	display: inline-block;
+	float: left;
+}
